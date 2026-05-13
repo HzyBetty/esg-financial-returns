@@ -2,7 +2,7 @@
 
 > **RSM 8224 – Analytical Insights Using Accounting and Financial Data**  
 > Rotman School of Management, University of Toronto | Winter 2026  
-> **Group 9:** Haolong Yang, Jiayu Niu, Siyan Li, Zhenyu Wang, Zhongyi Hu
+> **Group 9:** Zhongyi Hu, Haolong Yang, Jiayu Niu, Siyan Li, Zhenyu Wang
 
 ---
 
